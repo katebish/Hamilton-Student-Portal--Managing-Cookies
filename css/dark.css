@@ -1,0 +1,14 @@
+/*the dark theme*/
+header {
+    background-color: darkblue;
+}
+
+head, body{
+    font-family: sans-serif;
+    color: white;
+    background-color: blue
+}
+
+nav li a{
+    color: white;
+}

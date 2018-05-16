@@ -1,0 +1,13 @@
+/*setting the left navigation*/
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding-left: 10px;
+}
+
+section {
+    margin-left: 170px;
+    padding: 10px;
+    overflow: hidden;
+}

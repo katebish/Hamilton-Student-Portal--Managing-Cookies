@@ -1,0 +1,13 @@
+/*the light theme*/
+header {
+    background-color: skyblue;
+}
+
+head, body{
+    font-family: sans-serif;
+    color: black;
+}
+
+nav li a{
+    color: black;
+}

@@ -1,0 +1,13 @@
+/*setting the right navigation*/
+nav {
+    float: right;
+    max-width: 160px;
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 100px
+}
+
+section {
+    padding: 10px;
+    overflow: hidden;
+}
